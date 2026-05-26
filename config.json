@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsecrypt",
+        "uuid": 1494608,
+        "checksum": "58tw9m"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
